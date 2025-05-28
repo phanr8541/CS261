@@ -1,0 +1,1 @@
+      The programming languages I know are Python and MASM. I have about half a year of experience in Python and roughly a few months in MASM from a previous course in the program. The IDEs I have used are PyCharm and Visual Studio. The programming-related classes I have taken are CS161, CS162, CS271, and an introductory Python course on Udemy. 
